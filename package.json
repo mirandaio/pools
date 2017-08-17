@@ -1,0 +1,26 @@
+{
+  "name": "pools",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mirandaio/pools.git"
+  },
+  "author": "Alfredo Miranda <alfredo@miranda.io>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mirandaio/pools/issues"
+  },
+  "homepage": "https://github.com/mirandaio/pools#readme",
+  "dependencies": {
+    "react": "15.6.1",
+    "react-dom": "15.6.1"
+  },
+  "devDependencies": {
+    "webpack": "3.5.5"
+  }
+}
